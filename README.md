@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @XXHNSYS
-- 👀 I’m interested in swimming,runnning and pingpong
+- 👀 I’m interested in swimming and pingpong
 - 🌱 I’m currently learning asset pricing
 - 💞️ I’m looking to collaborate on python and R language
 - 📫 I am living in the DONG 4 BUILDING 428 dormitory of Dongbei University of Finance & Economics(DUFE)
