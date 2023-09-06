@@ -2,7 +2,7 @@
 - 👀 I’m interested in swimming,runnning and pingpong
 - 🌱 I’m currently learning asset pricing
 - 💞️ I’m looking to collaborate on python and R language
-- 📫 How to reach me ...
+- 📫 I am living in the DONG 4 BUILDING 428 dormitory of Dongbei University of Finance & Economics(DUFE)
 
 <!---
 XXHNSYS/XXHNSYS is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
